@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The jolly chair-men. Or, An excellent new song in praise of their employment, which is to be preferr'd before coaches, for the ease of those that cannot bare jumbling. Tune is, Here I love, there I love, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688-1692?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03923</idno>
+            <idno type="STC">Wing J891</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.39.k.6[16]</idno>
+            <idno type="EEBO-CITATION">99887393</idno>
+            <idno type="PROQUEST">ocm99887393</idno>
+            <idno type="VID">182102</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182102)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:1[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The jolly chair-men. Or, An excellent new song in praise of their employment, which is to be preferr'd before coaches, for the ease of those that cannot bare jumbling. Tune is, Here I love, there I love, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, J. Deacon, J. Blare, and J. Back,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1688-1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Possibly cropped, with loss of imprint; imprint suggested by Wing.</note>
+                  <note>Verse: "Come listen well to a jocular song ..."</note>
+                  <note>Printed in two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182102:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>The Jolly Chair-Men.</head>
+            <head type="sub">OR An Excellent New Song in praiſe of their Employment, which is to be Preferr'd before Coaches, for the eaſe of thoſe that can<g ref="char:EOLhyphen"/>not bare Jumbling.</head>
+            <opener>Tune is, <hi>Here I Love, there I Love,</hi> &amp;c.</opener>
+            <argument>
+               <p>Licenſed according to Order.</p>
+            </argument>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <lg>
+               <l>COme liſten well to a Jocular Song,</l>
+               <l>The which does to honeſt ſtout Chair-men belong,</l>
+               <l>Who Plys at St. <hi>James</hi>'s and near to <hi>White-Hall.</hi>
+               </l>
+               <l>Where Gallants for Chair-men do commonly call.</l>
+            </lg>
+            <lg>
+               <l>When Ladies of Pleaſure, would viſit a Friend,</l>
+               <l>Why then for a Chair-man they haſtily ſend,</l>
+               <l>Who does the young Miſs to her Gallant convey,</l>
+               <l>Where they in their wanton Embraces may play.</l>
+            </lg>
+            <lg>
+               <l>When ever ſhe lights of a Booty, O then,</l>
+               <l>She's not ungrateful to honeſt Chair-men,</l>
+               <l>But throws them a ſhilling for waiting a while,</l>
+               <l>Of which ſhe has earn'd by her labour and toyl.</l>
+            </lg>
+            <lg>
+               <l>The Gallant whoſe Pockets are lined with Gold,</l>
+               <l>He will all the Pleaſures of Nature behold,</l>
+               <l>The Chair-men are ſent for to hoiſt them away,</l>
+               <l>From Jilting, to Tennis-Court, Park, or the Play.</l>
+            </lg>
+            <lg>
+               <l>Like Slaves through the ſtreet we run trudging together</l>
+               <l>With this huffing Spark in our Cabbin of Leather,</l>
+               <l>While thus he does Revel in Pleaſure, perhap,</l>
+               <l>He loſes his Money but meets with a Clap,</l>
+            </lg>
+            <lg>
+               <l>To houſos of Pleaſure we trudge on together,</l>
+               <l>To carry the Sinners in Chairs made of Leather,</l>
+               <l>Where the wit, and the money and vigour all ſpent,</l>
+               <l>Full late they come Home, and as late they repent.</l>
+            </lg>
+            <lg>
+               <l>But if this ſhould happen 'tis nothing to us,</l>
+               <l>You very well know that our Chair's ne're the worſe,</l>
+               <l>A Puritan Siſter next way in our Chair,</l>
+               <l>We carry indeed a kind Brother to hear.</l>
+            </lg>
+            <lg>
+               <l>Chair, Chair, crysthe Foot-man, away we all run,</l>
+               <l>And happy arethey that the Race have firſt won,</l>
+               <l>Then in ſteps the Hector, claps hat upon knee,</l>
+               <l>For none makes a Figure ſo modiſh as he.</l>
+            </lg>
+            <lg>
+               <l>This Foppiſh Young Spark in a garb ſhall appear,</l>
+               <l>As if he was one of ten thouſand a year,</l>
+               <l>When may be he ha'n't ſo much Coin in his Purſe,</l>
+               <l>That for our hard Labour ſhould ſatisfie us.</l>
+            </lg>
+            <lg>
+               <l>VVith many a fat Gut, and damn'd heavy load,</l>
+               <l>Like poor Beaſts of Burthen we travel the Road,</l>
+               <l>Away we trudge with him full may a ſcore,</l>
+               <l>His Carcaſs weighs much, but his ſins do weigh more.</l>
+            </lg>
+            <lg>
+               <l>VVe carry the Ladies who carry again,</l>
+               <l>VVe take up both Sexes, they only the men,</l>
+               <l>They are no great burthen, we run with a ſlight,</l>
+               <l>Since women ye know for the moſt part are light.</l>
+            </lg>
+            <lg>
+               <l>VVhen Lady to Lady their viſits do pay,</l>
+               <l>VVe Chair-men have buſineſs-enough for that day,</l>
+               <l>Surrounded with Foot-men ſome leſs and ſome more,</l>
+               <l>VVe carry his Honour to viſit his VVhore,</l>
+            </lg>
+            <lg>
+               <l>There is not a Coach in the world can compare,</l>
+               <l>With theſe Chairs of Leather, for why-I declare,</l>
+               <l>For Coaches o'er Kennels do roar it like Thunder,</l>
+               <l>As if they would ſhake an Old ſinner in ſunder.</l>
+            </lg>
+            <lg>
+               <l>For there is ſome Gallants has had'em of late.</l>
+               <l>And theſe cann't endure to be Jowl'd at that rate,</l>
+               <l>A Chair then is call'd for to ride through the Town,</l>
+               <l>The which are as eaſie as beds of ſoft down.</l>
+            </lg>
+            <lg>
+               <l>To the Court and the Play-houſe we carry our fair,</l>
+               <l>Crack'd, Sound, and unſound, and all ſorts of VVare,</l>
+               <l>VVe carry the Lacy, Proud, Gout, and the Pox,</l>
+               <l>And live by the carrying of Jack in a Box.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
